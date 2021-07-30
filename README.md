@@ -9,11 +9,12 @@ Texture Classification is the problem of distinguishing between textures, a clas
 [Link](https://docs.google.com/document/d/1bIjKIv3eOZIGPFHHXYagqRVD54xtD-YErzpn5DDnTEk/edit?usp=sharing) for the report.
 
 # Datasets :
-- KTH-Tips-2a
-- OuTex
-- FMD
-- VisTex
-
+- [KTH-Tips-2a](https://www.csc.kth.se/cvap/databases/kth-tips/kth-tips2.pdf)
+- [OuTex](https://static.aminer.org/pdf/PDF/000/348/186/outex_new_framework_for_empirical_evaluation_of_texture_analysis_algorithms.pdf)
+- [FMD](https://people.csail.mit.edu/celiu/CVPR2010/FMD/)
+- [VisTex](https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html)
+> If unable to find any of the database ping me!
+> 
 # Results:
 ### Complete Local Binary Pattern (CLBP) 
 We used both the methods, CLBP and MRELBP, on two given datasets - KTH-Tips-2a and OuTex. We used different machine learning classifiers such as Support Vector Machine classifier, KNearestNeighbour classifier, Naive Bayesian classifier, Logistic Regression classifier, etc. The operations were performed on different numbers of training and testing images to analyse the accuracy on increasing the dataset images.Table 1 gives the accuracy of texture classification techniques on different datasets with different classifiers:
