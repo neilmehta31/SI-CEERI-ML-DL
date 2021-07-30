@@ -1,5 +1,5 @@
 # SI-CEERI-ML-DL
-The Repository has the accumulation of the work done during the summer internship 2021 at Central Electronics Engineering Research Institute. The Research Internship was guided by scientist Dr. Suriya Prakash J at CSIR - CEERI, Chennai. The work comprise of Machine Learning and Deep Learning Techniques for texture classification.
+The Repository has the accumulation of the work done during the Practice School -I Summer Internship 2021 at Central Electronics Engineering Research Institute(CSIR-CEERI). The Research Internship was guided by scientist Dr. Suriya Prakash J at CSIR - CEERI, Chennai. The work comprise of Machine Learning and Deep Learning Techniques for texture classification.
 The main aim of the internship was to build models to successfully extract the texture features from the images using deep-learning and traditional machine laerning techniques.
 The database used were OuTex, KTH-Tips-2a, FMD and VisTex. Full [folder](https://drive.google.com/drive/folders/1yhV62kd3IKXu2qbxZtD2hzgvUs-XDFV0?usp=sharing) for the work
 
